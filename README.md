@@ -1,3 +1,3 @@
 # hello-world
-First repository
+First repository:
 I am a student at WGU
