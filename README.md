@@ -1,3 +1,2 @@
 # hello-world
-First repository:
-I am a student at WGU
+Anyone a student at WGU?
